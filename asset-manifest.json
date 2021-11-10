@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devneagu.github.io/csb-ebd2j/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://devneagu.github.io/csb-ebd2j/static/js/main.cd0178f4.chunk.js",
+    "main.js.map": "https://devneagu.github.io/csb-ebd2j/static/js/main.cd0178f4.chunk.js.map",
+    "runtime-main.js": "https://devneagu.github.io/csb-ebd2j/static/js/runtime-main.0fd4f36d.js",
+    "runtime-main.js.map": "https://devneagu.github.io/csb-ebd2j/static/js/runtime-main.0fd4f36d.js.map",
+    "static/js/2.bb864cee.chunk.js": "https://devneagu.github.io/csb-ebd2j/static/js/2.bb864cee.chunk.js",
+    "static/js/2.bb864cee.chunk.js.map": "https://devneagu.github.io/csb-ebd2j/static/js/2.bb864cee.chunk.js.map",
+    "index.html": "https://devneagu.github.io/csb-ebd2j/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://devneagu.github.io/csb-ebd2j/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bb864cee.chunk.js.LICENSE.txt": "https://devneagu.github.io/csb-ebd2j/static/js/2.bb864cee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fd4f36d.js",
+    "static/js/2.bb864cee.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd0178f4.chunk.js"
+  ]
+}
